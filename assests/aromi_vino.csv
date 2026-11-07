@@ -1,0 +1,73 @@
+Root,Category,Type,Aroma,Results
+Aromas,Fruits White Wine,Citrus,Grapefruit,712.000
+Aromas,Fruits White Wine,Citrus,Lemon,5.040.000
+Aromas,Fruits White Wine,Citrus,Lime,2.920.000
+Aromas,Fruits White Wine,Citrus,Mandarine,26.200
+Aromas,Fruits White Wine,Tree Fruits,Pear,1.050.000
+Aromas,Fruits White Wine,Tree Fruits,Apple,122.000
+Aromas,Fruits White Wine,Tree Fruits,Green Apple,955.000
+Aromas,Fruits White Wine,Tree Fruits,Peach,1.560.000
+Aromas,Fruits White Wine,Tropical Fruits,Melon,539.000
+Aromas,Fruits White Wine,Tropical Fruits,Guava,151.000
+Aromas,Fruits White Wine,Tropical Fruits,Pineapple,2.050.000
+Aromas,Fruits White Wine,Tropical Fruits,Passion Fruit,926.000
+Aromas,Fruits White Wine,Tropical Fruits,Lychee,107.000
+Aromas,Fruits Red Wine,Red Berries,Redcurrant,38.000
+Aromas,Fruits Red Wine,Red Berries,Blackcurrant,81.900
+Aromas,Fruits Red Wine,Red Berries,Strawberry,2.320.000
+Aromas,Fruits Red Wine,Red Berries,Blackberry,630.000
+Aromas,Fruits Red Wine,Tree Fruits,Cherry,2.400.000
+Aromas,Fruits Red Wine,Tree Fruits,Plum,945.000
+Aromas,Floral,Honeysuckle,,86.100
+Aromas,Floral,Hawthorn,,80.100
+Aromas,Floral,Orange Blossom,,35.300.000
+Aromas,Floral,Linden,,72.100
+Aromas,Floral,Jasmine,,399.000
+Aromas,Floral,Acacia,,79.200
+Aromas,Floral,Violet,,255.000
+Aromas,Floral,Lavender,,484.000
+Aromas,Floral,Rose,,123.000
+Aromas,Vegetal,Vegetables,Green Pepper,34.800.000
+Aromas,Vegetal,Vegetables,Tomato,3.980.000
+Aromas,Vegetal,Fresh Herbs,Cut Grass,34.400.000
+Aromas,Vegetal,Fresh Herbs,Dill,1.130.000
+Aromas,Vegetal,Fresh Herbs,Thyme,1.860.000
+Aromas,Vegetal,Fresh Herbs,Mint,1.860.000
+Aromas,Vegetal,Dried Herbs,Tabacco,22.800
+Aromas,Vegetal,Dried Herbs,Hay,180.000
+Aromas,Vegetal,Leaves,Blackcurrant Leaf,34.200.000
+Aromas,Vegetal,Leaves,Eucalyptus,80.100
+Bouquet,Mineral,Young White Wine,Flint,95.100
+Bouquet,Mineral,Aged White Wine,Kerosene,35.300
+Bouquet,Mineral,Aged Red Wine,Tar,96.100
+Bouquet,Yeast,Bread,,5.600.000
+Bouquet,Malolactic Fermentation,Yoghurt,,244.000
+Bouquet,Malolactic Fermentation,Butter,,5.880.000
+Bouquet,Oak Aging,Smoked,,2.290.000
+Bouquet,Oak Aging,Coffee,,160.000
+Bouquet,Oak Aging,Toast,,2.620.000
+Bouquet,Oak Aging,Woods,Pine,943.000
+Bouquet,Oak Aging,Woods,Cedar,383.000
+Bouquet,Oak Aging,Woods,Sandalwood,44.700
+Bouquet,Oak Aging,Woods,Oak,234.000
+Bouquet,Oak Aging,Nuts,Almond,1.860.000
+Bouquet,Oak Aging,Nuts,Hazelnut,429.000
+Bouquet,Oak Aging,Nuts,Coconut,2.690.000
+Bouquet,Late Harvest / Botrytis,Dry Apricot,,34.200.000
+Bouquet,Late Harvest / Botrytis,Orange Peel,,34.900.000
+Bouquet,Fortified Wine,Prune,,107.000
+Bouquet,Aged White Wine,Honey,,3.930.000
+Bouquet,Aged Red Wine,Chocolate,,144.000
+Bouquet,Aged Red Wine,Animal,,174.000
+Bouquet,Aged Red Wine,Leather,,191.000
+Bouquet,Aged Red Wine,Musk,,71.600
+Faults,Trichloroanisole,Corked,,64.300
+Faults,Oxygen,Sherry,,1.140.000
+Faults,Heat,Madeira,,230.000
+Faults,Volatile Acidity,Ethyl Acetate,Nail Polish Remover,34.500.000
+Faults,Volatile Acidity,Acetic Acid,Vinegar,3.470.000
+Faults,Sulfides,Dimethyl Sulfide,Sweet Corn,35.600.000
+Faults,Sulfides,Ethyl Mercaptan,Onion,4.740.000
+Faults,Sulfides,Hudrogen Sulfide,Rotten Egg,34.300.000
+Faults,Sulfides,Sulfer Dioxide,Rubber,236.000
+Faults,Brett,Ethyl-phenol,Old band-aid,34.200.000
